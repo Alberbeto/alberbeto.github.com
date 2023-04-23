@@ -54,7 +54,7 @@ links.forEach(function(link){
         },1000);*/
 
         setInterval(function(){
-            location.href="/"
+            location.href="/boletines"
         },600);
 
         //mover en docmuentos en java scroip
